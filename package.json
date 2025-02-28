@@ -1,6 +1,6 @@
 {
 	"name": "gulp-starter",
-	"version": "4.0.1",
+	"version": "4.1.0",
 	"description": "https://github.com/tagtwp",
 	"main": "gulpfile.js",
 	"type": "module",
